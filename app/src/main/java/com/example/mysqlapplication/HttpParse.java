@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
 
-public class JSONParser {
+public class HttpParse {
 
     String FinalHttpData = "";
     String Result ;

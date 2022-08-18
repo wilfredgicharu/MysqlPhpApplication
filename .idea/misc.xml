@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Fred/AndroidStudioProjects/waridi_online_app-master/MysqlApplication/app/src/main/res/layout/activity_dashboard.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/Fred/AndroidStudioProjects/waridi_online_app-master/MysqlApplication/app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Fred/AndroidStudioProjects/waridi_online_app-master/MysqlApplication/app/src/main/res/layout/activity_user_login.xml" value="0.18645833333333334" />
       </map>
     </option>
   </component>
